@@ -5,4 +5,4 @@ A blog from where I get details of different Neural Networks [A blog By andrewtc
 <br>
 | Project | Description |
 | --- | --- |
-| `[Perceptron]`(https://github.com/tawabshakeel/Nerual-Networks-using-keras/tree/master/perceptron) | Most simple Neural Network. Takes some inputs, sums them up, applies activation function and passes them to output layer . |
+| `Perceptron` | Most simple Neural Network. Takes some inputs, sums them up, applies activation function and passes them to output layer . |
